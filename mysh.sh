@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Welcome to Script!"
+
 VAR="/bin/cat"
 VAR="jobe"
 newvar="$VAR"
